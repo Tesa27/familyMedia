@@ -1,1 +1,2 @@
-# familyMedia
+# FamilyMedia
+This is an app that will allow families to communicate between them using private chats. Every user can send a friend request to a memeber of the family that can either accept or decline the request. A user can invite his members of the family that he is already friends with to a private chat, if all the members he invited accept it a chat is created. The user can also see some statistics such as how many chats are active and how many are pending on his profile page.
